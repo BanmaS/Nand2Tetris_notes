@@ -1,4 +1,6 @@
 # Module 1: Boolean Functions and Gate Logic Roadmap
+## 布尔逻辑
+这一部分基本是复习数电的基本知识，学过数电的看一遍感觉就可以了
 ## project01：用HDL实现书中的15个芯片
 建议按照书上建议的顺序来实现，基本上后一个芯片会用到前一个已经写好的
 
