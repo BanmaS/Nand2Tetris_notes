@@ -8,6 +8,7 @@
 由于本人水平过于菜，本笔记仅记录个人学习过程，部分实在写不出来的部分参考了博客
 * [https://www.cnblogs.com/YjmStr/p/15371886.html](url)
 * [https://github.com/woai3c/nand2tetris](url)
+
 在此表示感谢
 
 上传的项目自己都用硬件仿真器/CPU仿真器测试过了，基本可以保证正确性，注释如果写的不多的话，要么项目本身很简单，要么把实现的过程和思路写在的对应的notes里
