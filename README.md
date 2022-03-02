@@ -5,7 +5,7 @@
 ## 资料
 所有的资料都可以在课程官网[https://www.nand2tetris.org/](url)找到,包括电子书、模拟器等
 
-由于本人水平过于菜，本笔记仅记录个人学习过程，部分实在写不出来的部分参考了下面的博客/项目，在此表示感谢
+由于本人水平过于菜，本笔记仅记录个人学习过程，部分实在写不出来的部分参考了下面的博客/项目，在此表示感谢~
 * [https://www.cnblogs.com/YjmStr/p/15371886.html](url)
 * [https://github.com/woai3c/nand2tetris](url)
 
