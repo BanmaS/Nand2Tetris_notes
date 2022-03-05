@@ -21,4 +21,4 @@ Memory的实现总体来讲还是比较简单的，看着书上的图来就可�
 ## 项目：Computer实现
 写完了CPU和Memory这部分就很简单了，按书上P97的图连起来就可以了（ROM32K不需要自己写）
 
-感觉在写CPU的时候也可以边看看P97的Computer的结构图，容易理解outM，inM，addressM的关系，写CPU的时候脑袋会比较清醒，个人感觉比较容易模糊的点是A指令的情况下writeM=0，并不会通过outM对内存M进行写入，但是会通过address寻找内存中对应的值，将其作为下一条C指令的inM
+感觉在写CPU的时候也可以边看看P97的Computer的结构图，容易理解outM，inM，addressM的关系，写CPU的时候脑袋会比较清醒，个人感觉比较容易模糊的点是A指令的情况下writeM=0，并不会通过outM对内存M进行写入，但是会通过addressM，寻找内存中对应的值，将其作为下一条C指令的inM
