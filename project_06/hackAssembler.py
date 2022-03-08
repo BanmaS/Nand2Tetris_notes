@@ -187,7 +187,6 @@ class Parser:
 
 
 if __name__ == '__main__':
-    # translate_file('Add.asm')
     asm_filename = 'RectL.asm'
     hack_filename = os.path.splitext(asm_filename)[0] + ".hack"
     with open(hack_filename, "w") as hack_file:
